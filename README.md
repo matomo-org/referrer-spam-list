@@ -1,6 +1,4 @@
-Reusable list of referrer spammers
-
-TODO: introduction to explain why and promote Piwik
+This is a community-contributed list of [referrer spammers](http://en.wikipedia.org/wiki/Referer_spam) maintained by [Piwik](http://piwik.org/), the leading open source web analytics platform.
 
 ## Usage
 
