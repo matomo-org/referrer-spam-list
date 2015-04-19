@@ -30,7 +30,7 @@ $list = file('spammers.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
 Contributing a new host to the list can be done by either opening a new issue or a pull request. Please check if somebody already reported the host before opening a new one.
 
-If you open a pull request, remember to keep one host per line without any extra character (e.g. no comma). The list should be kept order alphabetically. You should also use [Linux end of line](http://en.wikipedia.org/wiki/Newline).
+If you open a pull request, remember to keep one host per line without any extra character (e.g. no comma). The list should be kept ordered alphabetically. You should use [Linux line endings](http://en.wikipedia.org/wiki/Newline).
 
 ## Disclaimer
 
