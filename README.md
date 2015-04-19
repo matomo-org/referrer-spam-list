@@ -12,6 +12,12 @@ You can [download this file manually](https://raw.githubusercontent.com/piwik/re
 git clone https://github.com/piwik/referrer-spam-blacklist.git
 ```
 
+If you are using PHP, you can also install the list through Composer:
+
+```
+composer require piwik/referrer-spam-blacklist
+```
+
 Parsing the file should be pretty easy using your favorite language. Beware that the file can contain empty lines.
 
 Here is an example using PHP:

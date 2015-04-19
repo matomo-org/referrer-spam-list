@@ -1,0 +1,5 @@
+{
+    "name": "piwik/referrer-spam-blacklist",
+    "description": "Reusable list of referrer spammers",
+    "license": "Public Domain"
+}
