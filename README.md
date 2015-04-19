@@ -1,10 +1,12 @@
 Reusable list of referer spammers
 
+TODO: introduction to explain why and promote Piwik
+
 ## Usage
 
 The list is stored in this repository in `spammers.txt`. This text file contains one host per line.
 
-You can download this file manually, download the whole folder as zip or clone the repository using git:
+You can [download this file manually](https://raw.githubusercontent.com/piwik/referer-spam-blacklist/master/spammers.txt?token=AAr9yI_KDi16aSTWBllo2KC_TRw-Ae7Uks5VPM3PwA%3D%3D), download the [whole folder as zip](https://github.com/piwik/referer-spam-blacklist/archive/master.zip) or clone the repository using git:
 
 ```
 git clone https://github.com/piwik/referer-spam-blacklist.git
