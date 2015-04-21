@@ -26,13 +26,15 @@ $list = file('spammers.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
 ## Contributing
 
-Contributing a new host to the list can be done by either opening a [new issue](https://github.com/piwik/referrer-spam-blacklist/issues/new) or a pull request. Please [search](https://github.com/piwik/referrer-spam-blacklist/issues) if somebody already reported the host before opening a new one.
+To add a new referrer spammer to the list, [click here to edit the spammers.txt file](https://github.com/piwik/referrer-spam-blacklist/edit/master/spammers.txt) and create a pull request. Alternatively you can create a [new issue](https://github.com/piwik/referrer-spam-blacklist/issues/new).  
 
-If you open a pull request, remember to keep one host per line. The list should be kept ordered alphabetically. You should use [Linux line endings](http://en.wikipedia.org/wiki/Newline).
+If you open a pull request, it is appreciated if you keep one hostname per line, keep the list ordered alphabetically, and use [Linux line endings](http://en.wikipedia.org/wiki/Newline).
+
+Please [search](https://github.com/piwik/referrer-spam-blacklist/issues) if somebody already reported the host before opening a new one.
 
 ## Disclaimer
 
-This list of Referrer spammers is contributed by the community and is provided as is, without any guarantee. Using this list is under your own responsibility and risk.
+This list of Referrer spammers is contributed by the community and is provided as is. Use at your own discretion: it may be incomplete (although we aim to keep it up to date) and it may contain outdated entries (let us know if a hostname was added but is not actually a spammer).
 
 ## License
 
