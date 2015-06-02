@@ -1,8 +1,7 @@
 #!/bin/sh
 
-# use this inside 'server { ... }'
-#
-# include spammers.nginx.conf;
+# include 'spammers.nginx.conf' in main nginx.conf
+# then use this block inside 'server { ... }':
 # if($bad_referer) {
 #   return 444;
 # }
