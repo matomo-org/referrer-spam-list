@@ -32,6 +32,14 @@ If you open a pull request, it is appreciated if you keep one hostname per line,
 
 Please [search](https://github.com/piwik/referrer-spam-blacklist/issues) if somebody already reported the host before opening a new one.
 
+### Sorting
+
+To keep the list sorted the same way across forks it is recommended to let the computer do the sorting. The list follows the merge sort algorithm as implemented in [sort](https://en.wikipedia.org/wiki/Sort_(Unix)). You can use sort to both sort the list and filter out doubles:
+
+```
+sort -uf -o spammers.txt spammers.txt
+```
+
 ## Disclaimer
 
 This list of Referrer spammers is contributed by the community and is provided as is. Use at your own discretion: it may be incomplete (although we aim to keep it up to date) and it may contain outdated entries (let us know if a hostname was added but is not actually a spammer).
