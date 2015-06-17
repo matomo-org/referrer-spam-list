@@ -5,7 +5,7 @@
 abovetherivernc.com
 acads.net
 adcash.com
-addons.mozilla.org/en-US/firefox/addon/ilovevitaly/
+addons.mozilla.org
 adelly.bg
 adviceforum.info
 advokateg.(com?|ru)
@@ -92,8 +92,7 @@ houseofrose.com
 hulfingtonpost.com
 humanorightswatch.org
 ico.re
-iloveitaly.ro
-ilovevitaly.(com?|ru|org|info)
+ilovevitaly.(com?|ru|ro|org|info)
 iminent.com
 invivo.hu
 iskalko.ru
@@ -156,8 +155,7 @@ realting-moscow.ru
 resellerclub.com
 retreatia.com
 sanjosestartups.com
-savetubevideo.com
-savetubevideo.info
+savetubevideo.(com|info)
 screentoolkit.com
 search-error.com
 securesuite.co.uk
@@ -174,6 +172,7 @@ simple-share-buttons.com
 sitevaluation.org
 slftsdybbg.ru
 smailik.org
+smallseotools.com
 social-buttons.com
 socialseet.ru
 softomix.(com?|ru|org|net)
@@ -192,6 +191,7 @@ thepokertimer.com
 torontoplumbinggroup.com
 torture.ml
 touchmods.fr
+trafficmonetize.org
 trion.od.ua
 twincitiescarservice.com
 uni.me
