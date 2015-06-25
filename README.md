@@ -26,11 +26,17 @@ $list = file('spammers.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
 ## Contributing
 
-To add a new referrer spammer to the list, [click here to edit the spammers.txt file](https://github.com/piwik/referrer-spam-blacklist/edit/master/spammers.txt) and create a pull request. Alternatively you can create a [new issue](https://github.com/piwik/referrer-spam-blacklist/issues/new). In you issue or pull request please **explain where the referrer domain appeared and why you think it is a spammer**.
+To add a new referrer spammer to the list, [click here to edit the spammers.txt file](https://github.com/piwik/referrer-spam-blacklist/edit/master/spammers.txt) and create a pull request. Alternatively you can create a [new issue](https://github.com/piwik/referrer-spam-blacklist/issues/new). In your issue or pull request please **explain where the referrer domain appeared and why you think it is a spammer**.
 
 If you open a pull request, it is appreciated if you keep one hostname per line, keep the list ordered alphabetically, and use [Linux line endings](http://en.wikipedia.org/wiki/Newline).
 
 Please [search](https://github.com/piwik/referrer-spam-blacklist/issues) if somebody already reported the host before opening a new one.
+
+### Subdomains
+
+Piwik does sub-string matching on domain names from this list, so adding `semalt.com` is enough to block all subdomain referrers too, such as `semalt.semalt.com`.
+
+However, there are cases where you'd only want to add a subdomain but not the root domain. For example, add `referrerspammer.tumblr.com` but not `tumblr.com`, otherwise all `*.tumblr.com` sites would be affected.
 
 ### Sorting
 
