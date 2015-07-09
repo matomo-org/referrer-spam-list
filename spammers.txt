@@ -164,6 +164,7 @@ h2monline.com
 handicapvantoday.com
 hol.es
 hostcritique.com
+hostingbot.org
 hostingclub.lk
 houseofrose.com
 howopen.ru
@@ -177,10 +178,10 @@ ifmo.ru
 igru-xbox.net
 ilovevitaly.co
 ilovevitaly.com
-ilovevitaly.ru
-ilovevitaly.ro
-ilovevitaly.org
 ilovevitaly.info
+ilovevitaly.org
+ilovevitaly.ro
+ilovevitaly.ru
 iminent.com
 imperiafilm.ru
 investpamm.ru
@@ -321,9 +322,9 @@ social-buttons.com
 socialseet.ru
 softomix.co
 softomix.com
-softomix.ru
-softomix.org
 softomix.net
+softomix.org
+softomix.ru
 sohoindia.net
 solnplast.ru
 sonyelektronik.com
