@@ -24,6 +24,10 @@ Here is an example using PHP:
 $list = file('spammers.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 ```
 
+### In Piwik
+
+This list is included in each [Piwik](http://piwik.org) release so that referrer spam is filtered automatically. Piwik will also automatically update this list to its latest version every week.
+
 ## Contributing
 
 To add a new referrer spammer to the list, [click here to edit the spammers.txt file](https://github.com/piwik/referrer-spam-blacklist/edit/master/spammers.txt) and create a pull request. Alternatively you can create a [new issue](https://github.com/piwik/referrer-spam-blacklist/issues/new). In your issue or pull request please **explain where the referrer domain appeared and why you think it is a spammer**.
