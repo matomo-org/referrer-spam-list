@@ -1,0 +1,7 @@
+{
+  "name": "@piwik/referrer-spam-blacklist",
+  "version": "0.0.0",
+  "description": "Community-contributed list of referrer spammers",
+  "main": "spammers.txt",
+  "license": "Public Domain"
+}
