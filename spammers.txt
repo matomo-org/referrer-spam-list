@@ -232,6 +232,7 @@ kino-key.info
 kinopolet.net
 knigonosha.net
 konkursov.net
+law-check-two.xyz
 law-enforcement-ee.xyz
 law-enforcement-bot-ff.xyz
 law-enforcement-check-three.xyz
