@@ -190,7 +190,6 @@ europages.com.ru
 eurosamodelki.ru
 event-tracking.com
 eyes-on-you.ga
-farmingworm.com
 fast-wordpress-start.com
 fbdownloader.com
 fix-website-errors.com
@@ -255,6 +254,7 @@ iminent.com
 imperiafilm.ru
 increasewwwtraffic.info
 investpamm.ru
+investzalog.ru
 iskalko.ru
 ispaniya-costa-blanca.ru
 it-max.com.ua
