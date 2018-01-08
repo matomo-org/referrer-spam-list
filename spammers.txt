@@ -515,6 +515,9 @@ ua.tc
 uasb.ru
 unpredictable.ga
 uptime.com
+uptime-as.net
+uptime-eu.net
+uptime-us.net
 uptimechecker.com
 uzungil.com
 varikozdok.ru
