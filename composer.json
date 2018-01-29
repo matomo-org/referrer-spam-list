@@ -1,7 +1,7 @@
 {
     "name": "matomo/referrer-spam-blacklist",
     "description": "Community-contributed list of referrer spammers",
-    "license": "Public Domain",
+    "license": "Unlicense",
     "replace": {
         "piwik/referrer-spam-blacklist":"*"
     }
