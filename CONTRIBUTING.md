@@ -1,6 +1,6 @@
 # Contributing
 
-To add a new referrer spammer to the list, [click here to edit the spammers.txt file](https://github.com/piwik/referrer-spam-blacklist/edit/master/spammers.txt) and create a pull request. Alternatively you can create a [new issue](https://github.com/piwik/referrer-spam-blacklist/issues/new).
+To add a new referrer spammer to the list, [click here to edit the spammers.txt file](https://github.com/matomo-org/referrer-spam-blacklist/edit/master/spammers.txt) and create a pull request. Alternatively you can create a [new issue](https://github.com/matomo-org/referrer-spam-blacklist/issues/new).
 
 If you open a pull request, please:
 
@@ -10,4 +10,4 @@ If you open a pull request, please:
 - keep the list ordered alphabetically
 - use [Linux line endings](http://en.wikipedia.org/wiki/Newline)
 
-Please [search](https://github.com/piwik/referrer-spam-blacklist/issues?utf8=%E2%9C%93&q=is%3Aopen+) if somebody already reported the host before opening a new one.
+Please [search](https://github.com/matomo-org/referrer-spam-blacklist/issues?utf8=%E2%9C%93&q=is%3Aopen+) if somebody already reported the host before opening a new one.
