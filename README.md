@@ -80,6 +80,9 @@ To keep the list sorted the same way across forks it is recommended to let the c
 sort -uf -o spammers.txt spammers.txt
 ```
 
+### Community Projects
+[Apache .htaccess referrer spam blacklist](https://github.com/kambrium/apache-referrer-spam-blacklist) - A script for Apache users that generates a list of RewriteConds based on `spammers.txt`.
+
 ## Disclaimer
 
 This list of Referrer spammers is contributed by the community and is provided as is. Use at your own discretion: it may be incomplete (although we aim to keep it up to date) and it may contain outdated entries (let us know if a hostname was added but is not actually a spammer).
