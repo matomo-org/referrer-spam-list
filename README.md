@@ -53,6 +53,9 @@ Now as a daily cron job so the list stays up to date:
 0 0 * * * cd /etc/nginx/referrer-spam-blacklist/ && git pull > /dev/null && echo "" > /etc/nginx/referer_spam.conf && sort spammers.txt | uniq | sed 's/\./\\\\\\\\./g' | while read host; do echo "if (\$http_referer ~ '$host') {return 403;}" >> /etc/nginx/referer_spam.conf; done; service nginx reload > /dev/null
 ```
 
+### Apache
+
+There is a script for Apache users that generates a list of RewriteConds based on `spammers.txt`: [https://github.com/kambrium/apache-referrer-spam-blacklist](https://github.com/kambrium/apache-referrer-spam-blacklist).
 
 ### In Matomo (formerly Piwik)
 
