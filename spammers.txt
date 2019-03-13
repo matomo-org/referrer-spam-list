@@ -789,7 +789,6 @@ rfavon.ru
 rightenergysolutions.com.au
 roof-city.ru
 rospromtest.ru
-rxshop.md
 ru-lk-rt.ru
 ruinfocomp.ru
 rulate.ru
@@ -803,6 +802,7 @@ russian-translator.com
 russkie-sochineniya.ru
 rustag.ru
 rutor.group
+rxshop.md
 rybalka-opt.ru
 s-forum.biz
 sad-torg.com.ua
@@ -1017,6 +1017,7 @@ vodkoved.ru
 vpdr.pl
 vseigru.one
 vzheludke.com
+vzubah.com
 vzubkah.com
 w3javascript.com
 wakeupseoconsultant.com
