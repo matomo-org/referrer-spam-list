@@ -728,7 +728,6 @@ kinobum.org
 kinopolet.net
 kinosed.net
 kinostar.online
-kipu.crimea.ua
 knigonosha.net
 kollekcioner.ru
 komp-pomosch.ru
@@ -865,7 +864,6 @@ moyakuhnia.ru
 moygorod-online.ru
 moyparnik.com
 mrbojikobi4.biz
-msk.prom23.ru
 mtsguru.ru
 muscle-factory.com.ua
 musichallaudio.ru
@@ -1026,6 +1024,7 @@ prodvigator.ua
 professionalsolutions.eu
 profnastil-moscow.ru
 prointer.net.ua
+prom23.ru
 promoforum.ru
 promoteapps.online
 promotion-for99.com
