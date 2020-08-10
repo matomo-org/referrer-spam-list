@@ -4,10 +4,10 @@ This is a community-contributed list of [referrer spammers](http://en.wikipedia.
 
 The list is stored in this repository in `spammers.txt`. This text file contains one host per line.
 
-You can [download this file manually](https://github.com/matomo-org/referrer-spam-blacklist/blob/master/spammers.txt), download the [whole folder as zip](https://github.com/matomo-org/referrer-spam-blacklist/archive/master.zip) or clone the repository using git:
+You can [download this file manually](https://github.com/matomo-org/referrer-spam-list/blob/master/spammers.txt), download the [whole folder as zip](https://github.com/matomo-org/referrer-spam-list/archive/master.zip) or clone the repository using git:
 
 ```
-git clone https://github.com/matomo-org/referrer-spam-blacklist.git
+git clone https://github.com/matomo-org/referrer-spam-list.git
 ```
 
 ### PHP
@@ -60,11 +60,11 @@ This list is included in each [Matomo](https://matomo.org) release so that refer
 
 ## Contributing
 
-To add a new referrer spammer to the list, [click here to edit the spammers.txt file](https://github.com/matomo-org/referrer-spam-blacklist/edit/master/spammers.txt) and select `Create a new branch for this commit and start a pull request. `. In your pull request please explain where the referrer domain appeared and why you think it is a spammer. **Please open one pull request per new domain**.
+To add a new referrer spammer to the list, [click here to edit the spammers.txt file](https://github.com/matomo-org/referrer-spam-list/edit/master/spammers.txt) and select `Create a new branch for this commit and start a pull request. `. In your pull request please explain where the referrer domain appeared and why you think it is a spammer. **Please open one pull request per new domain**.
 
 If you open a pull request, it is appreciated if you keep one hostname per line, keep the list ordered alphabetically, and use [Linux line endings](http://en.wikipedia.org/wiki/Newline).
 
-Please [search](https://github.com/matomo-org/referrer-spam-blacklist/pulls) if somebody already reported the host before opening a new one.
+Please [search](https://github.com/matomo-org/referrer-spam-list/pulls) if somebody already reported the host before opening a new one.
 
 ### Subdomains
 
