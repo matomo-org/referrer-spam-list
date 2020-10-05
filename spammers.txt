@@ -579,6 +579,7 @@ educhess.ru
 edudocs.net
 eduinfosite.com
 eduserver.net
+eecz.org
 ege-essay.ru
 ege-krasnoyarsk.ru
 egovaleo.it
@@ -1381,8 +1382,8 @@ pricheski-video.com
 primfootball.com
 print-technology.ru
 private-service.best
-prizrn.site
 prizesk.com 
+prizrn.site
 prlog.ru
 probenzo.com.ua
 procrafts.ru
