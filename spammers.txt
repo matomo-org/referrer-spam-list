@@ -1868,7 +1868,6 @@ unpredictable.ga
 uptime-as.net
 uptime-eu.net
 uptime-us.net
-uptime.com
 uptimechecker.com
 urblog.xyz
 uruto.ru
